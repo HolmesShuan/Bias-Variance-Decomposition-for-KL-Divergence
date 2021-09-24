@@ -1,7 +1,9 @@
 # Bias-Variance-Decomposition-for-KL-Divergence
 This repository includes some detailed proofs of "Bias Variance Decomposition for KL Divergence". Hopefully, it will be helpful for a better understanding of [Heskes's paper](https://direct.mit.edu/neco/article-pdf/10/6/1425/813893/089976698300017232.pdf) and recent ICLR paper ["Rethinking Soft Labels for Knowledge Distillation: A Bias-Variance Tradeoff Perspective"](https://openreview.net/pdf?id=gIHd-5X324). 
 
-## Proofs:
+## [Proofs](./Bias_and_Variance.pdf):
+![image](./pf1.jpg)
+![image](./pf2.jpg)
 
 ## Reference:
 1. [Briefly answered in math.stackexchange.com](https://math.stackexchange.com/questions/3017916/bias-variance-decomposition-for-kl-divergence)
