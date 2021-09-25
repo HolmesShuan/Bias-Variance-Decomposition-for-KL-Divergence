@@ -6,6 +6,7 @@ Please feel free to correct me if my understanding of any of the aspects was wro
 ## [Proofs](./Bias_and_Variance.pdf):
 ![image](./pf1.jpg)
 ![image](./pf2.jpg)
+![image](./pf3.jpg)
 
 ## Reference:
 1. [Briefly answered in math.stackexchange.com](https://math.stackexchange.com/questions/3017916/bias-variance-decomposition-for-kl-divergence)
